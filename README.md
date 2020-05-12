@@ -10,7 +10,7 @@ Enjoy !
 
 ## 0/ Prerequesites :
 
-### a/ Hardware
+#### a/ Hardware
 
 - PANEL LED Sign matrix : https://www.leadleds.com/products/wifi-message-board.html
 - Raspberry Pi 3B : https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
@@ -18,15 +18,15 @@ Enjoy !
 - VCE DC Power Pigtail 2,1 mm x 5,5 mm Connecteurs de câble Male
 - Soldering iron
 
-### b/ Software : library dependencies
+#### b/ Software : library dependencies
 - RPI RGB LED MATRIX : https://github.com/hzeller/rpi-rgb-led-matrix/
 - ccxt : https://github.com/ccxt/ccxt
 - yfinance : https://github.com/ranaroussi/yfinance
 
-### c/ Software in this repo
+#### c/ Software in this repo
 - The code here
 
-### d/ Disclaimer
+#### d/ Disclaimer
 - As you have soldering part be careful with the heat ;)
 - You need code in python knowledge
 
