@@ -8,6 +8,8 @@ This tutorial is to guide you to build your own LED Signal panel with Raspberry 
 
 Enjoy !
 
+![LED's Signal Bitcoin price](https://github.com/remroc/LED-s-Signal/blob/master/LEDsSignal1.png)
+
 ## 0/ Prerequesites :
 
 #### a/ Hardware
