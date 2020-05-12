@@ -1,7 +1,11 @@
 # LEDSignal
-Educational project to use LED panel x Raspberry Pi to display any info or signals (ie. trading, transport, weather)
+This is an educational project I had a lot of fun with.
+
+Goal is to use LED panel x Raspberry Pi to display any info or signals (ie. trading, transport, weather)
 
 This tutorial is to guide you to build your own LED Signal panel with Raspberry Pi 3B.
+
+Enjoy !
 
 ## 0/ Prerequesites :
 
