@@ -2,7 +2,7 @@
 
 This is an educational project I had a lot of fun with.
 
-Goal is to use LED panel x Raspberry Pi to display any info or signals (ie. trading, transport, weather)
+Goal is to use LED panel x Raspberry Pi to display any info or signals (ie. trading, transport, weather and more)
 
 This tutorial is to guide you to build your own LED Signal panel with Raspberry Pi 3B.
 
@@ -17,7 +17,7 @@ Enjoy !
 - PANEL LED Sign matrix : https://www.leadleds.com/products/wifi-message-board.html
 - Raspberry Pi 3B : https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
 - Adafruit RGB Matrix HAT + RTC for Raspberry Pi - Mini Kit : https://www.adafruit.com/product/2345
-- VCE DC Power Pigtail 2,1 mm x 5,5 mm Connecteurs de câble Male
+- VCE DC Power Pigtail 2,1 mm x 5,5 mm Male Connector cable 
 - Soldering iron
 
 #### b/ Software : library dependencies
