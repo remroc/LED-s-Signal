@@ -35,19 +35,29 @@ Enjoy !
 ## 1/ STEP 1 : Prepare the Raspberry Pi
 
 #### a/ Solder Adafruit RGB on your Raspberry Pi 3B
+More to come
 
 #### b/ Connect in SSH to your Raspberry
+More to come
 
 #### c/ Setup your python environment
+More to come
 
 #### d/ Test the Signals (ie Trading)
+More to come
 
 ## 2/ STEP 2 : Prepare the LED Panel
 
 #### a/ Replace the card in the Panel with your Raspberry Pi and connect to the board
+More to come
 
 #### b/ Install Power cable
+More to come
 
 ## 3/ STEP 3 : Configure your app
 
-#### a/ Configure your app Signal (ie Trading)
+#### a/ Install your app Signal (ie Trading)
+More to come
+
+#### b/ Configure your app Signal (ie Trading)
+More to come
