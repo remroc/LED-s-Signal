@@ -1,6 +1,6 @@
 # "LED's Signal" (Let's signal !)
 
-This is an educational project I had a lot of fun with.
+This is an educational project I have a lot of fun with.
 
 Goal is to use LED panel x Raspberry Pi to display any info or signals (ie. trading, transport, weather and more)
 
