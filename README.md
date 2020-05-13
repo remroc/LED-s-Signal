@@ -30,7 +30,7 @@ Enjoy !
 
 #### d/ Disclaimer
 - As you have soldering part be careful with the heat ;)
-- You need code in python knowledge
+- Some python coding and linux knowledge is preferable ! ;)
 
 ## 1/ STEP 1 : Prepare the Raspberry Pi
 
